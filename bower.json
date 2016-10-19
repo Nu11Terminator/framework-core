@@ -1,6 +1,6 @@
 {
     "name": "framework-core",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "dependencies": {
         "framework-require-plugins": "^1",
         "jquery": "^2",
