@@ -1,10 +1,11 @@
 {
     "name": "framework-core",
-    "version": "2.1.6",
+    "version": "2.1.7",
+    "main": "src/exports",
     "dependencies": {
+        "framework-runtime": "^1.0.2",
         "framework-require-plugins": "^1",
         "jquery": "^2",
-        "lodash": "^4",
-        "framework-runtime": "^1.0.2"
+        "lodash": "^4"
     }
 }
