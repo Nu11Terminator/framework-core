@@ -1,0 +1,10 @@
+name: framework-shell
+highlighter: rouge
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'default'
+      stylesheetlocation: '../styles.css'
+      rootpath: '../'
