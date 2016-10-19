@@ -1,0 +1,10 @@
+{
+    "name": "framework-core",
+    "version": "2.0.1",
+    "dependencies": {
+        "framework-require-plugins": "^1",
+        "jquery": "^2",
+        "lodash": "^4",
+        "framework-runtime": "^1"
+    }
+}
